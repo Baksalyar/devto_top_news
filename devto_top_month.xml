@@ -4,7 +4,7 @@
     <title>DEV.to Top Posts This Month</title>
     <link>https://dev.to/top/month</link>
     <description>Top DEV.to posts from the last 30 days.</description>
-    <lastBuildDate>Sun, 08 Feb 2026 04:21:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 08:04:54 +0000</lastBuildDate>
     <item>
       <title>I Replaced Redis with PostgreSQL (And It&#x27;s Faster)</title>
       <link>https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942</link>
@@ -22,20 +22,20 @@
       <content:encoded><![CDATA[<p>&quot;Hostile experts created the dataset for patient machines.&quot;</p><p>That line, from a comment by Vinicius Fagundes on my last article, won&#x27;t leave my head.</p><p>Stack Overflow&#x27;s traffic collapsed 78% in two years. Everyone&#x27;s celebrating that AI finally killed the gatekeepers. But here&#x27;s what we&#x27;re not asking:</p>]]></content:encoded>
     </item>
     <item>
-      <title>Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸</title>
-      <link>https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af</link>
-      <guid isPermaLink="true">https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af</guid>
-      <pubDate>Thu, 22 Jan 2026 14:05:49 +0000</pubDate>
-      <description><![CDATA[<p>We&#x27;re excited to announce our newest challenge with GitHub !</p><p>Running through February 15 , the GitHub Copilot CLI Challenge invites you to experience the power of GitHub Copilot directly in your terminal.</p><p>GitHub Copilot CLI brings AI-powered coding assistance to your command line, enabling you to build, debug, and understand code through natural language conversations.</p>]]></description>
-      <content:encoded><![CDATA[<p>We&#x27;re excited to announce our newest challenge with GitHub !</p><p>Running through February 15 , the GitHub Copilot CLI Challenge invites you to experience the power of GitHub Copilot directly in your terminal.</p><p>GitHub Copilot CLI brings AI-powered coding assistance to your command line, enabling you to build, debug, and understand code through natural language conversations.</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
       <link>https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi</link>
       <guid isPermaLink="true">https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi</guid>
       <pubDate>Wed, 04 Feb 2026 11:05:13 +0000</pubDate>
       <description><![CDATA[<p>The web platform is way more powerful than most developers realize — and every year it quietly gains new superpowers.</p><p>Sometimes choosing a topic is harder than writing the article itself.</p><p>When I thought about what to write this week, only two types of ideas kept comming to mind: either potential bangers , or deep technical dives.😅 But I wanted something lighter. Still technical, still useful. But not a 3-day research rabbit hole.</p>]]></description>
       <content:encoded><![CDATA[<p>The web platform is way more powerful than most developers realize — and every year it quietly gains new superpowers.</p><p>Sometimes choosing a topic is harder than writing the article itself.</p><p>When I thought about what to write this week, only two types of ideas kept comming to mind: either potential bangers , or deep technical dives.😅 But I wanted something lighter. Still technical, still useful. But not a 3-day research rabbit hole.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸</title>
+      <link>https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af</link>
+      <guid isPermaLink="true">https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af</guid>
+      <pubDate>Thu, 22 Jan 2026 14:05:49 +0000</pubDate>
+      <description><![CDATA[<p>We&#x27;re excited to announce our newest challenge with GitHub !</p><p>Running through February 15 , the GitHub Copilot CLI Challenge invites you to experience the power of GitHub Copilot directly in your terminal.</p><p>GitHub Copilot CLI brings AI-powered coding assistance to your command line, enabling you to build, debug, and understand code through natural language conversations.</p>]]></description>
+      <content:encoded><![CDATA[<p>We&#x27;re excited to announce our newest challenge with GitHub !</p><p>Running through February 15 , the GitHub Copilot CLI Challenge invites you to experience the power of GitHub Copilot directly in your terminal.</p><p>GitHub Copilot CLI brings AI-powered coding assistance to your command line, enabling you to build, debug, and understand code through natural language conversations.</p>]]></content:encoded>
     </item>
     <item>
       <title>Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community</title>
@@ -102,20 +102,20 @@
       <content:encoded><![CDATA[<p>Lately, I&#x27;ve noticed that many online discussions don&#x27;t really feel like discussions anymore. Instead of exchanging perspectives, we often default to contradiction - not to understand, but to push back. It&#x27;s as if simply acknowledging that someone else sees the world differently has become harder than proving them wrong. What I find most disheartening isn’t disagreement itself, but how quickly it turns personal.</p><p>A recent example that stuck with me was the reaction to comments from Sven Vincke at Larian, and the broader discourse around Highguard . What could have been an interesting conversation about creative direction, expectations, and taste quickly hardened into camps. Instead of acknowledging that different players value different things, much of the discussion became about drawing lines and dismissing opposing views outright.</p><p>This isn&#x27;t limited to games, of course. You see the same pattern play out across technical discussions, product debates, and even well-intentioned conversations about tools or methodologies. A suggestion is interpreted as an attack, a preference as a judgment. Before long, the focus shifts away from the idea itself and toward defending a position at all costs.</p>]]></content:encoded>
     </item>
     <item>
-      <title>When DEV.to Stats Aren&#x27;t Enough: Building My Own Memory</title>
-      <link>https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid</link>
-      <guid isPermaLink="true">https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid</guid>
-      <pubDate>Sun, 18 Jan 2026 20:27:16 +0000</pubDate>
-      <description><![CDATA[<p>One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&#x27;s dashboard just said &quot;+37 views&quot;. No context. No cause. No pattern.</p><p>I wanted to know why . Was it a comment from someone influential? A share somewhere? A title change from weeks ago finally paying off? The platform couldn&#x27;t tell me. So I decided to steal my own data.</p><p>Not to optimize. Not to perform. But to understand how my articles actually live over time.</p>]]></description>
-      <content:encoded><![CDATA[<p>One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&#x27;s dashboard just said &quot;+37 views&quot;. No context. No cause. No pattern.</p><p>I wanted to know why . Was it a comment from someone influential? A share somewhere? A title change from weeks ago finally paying off? The platform couldn&#x27;t tell me. So I decided to steal my own data.</p><p>Not to optimize. Not to perform. But to understand how my articles actually live over time.</p>]]></content:encoded>
-    </item>
-    <item>
       <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
       <link>https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2</link>
       <guid isPermaLink="true">https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2</guid>
       <pubDate>Thu, 05 Feb 2026 13:05:27 +0000</pubDate>
       <description><![CDATA[<p>I have a confession to make.</p><p>Five years ago, if I had a tedious task like writing unit tests for a legacy module or converting a JSON schema, I would assign it to a Junior Developer. It was boring work for me, but it was gold for them. It taught them the codebase, it taught them discipline, and it taught them how systems break.</p><p>Today, I don&#x27;t assign that task to a Junior. I assign it to Copilot / Claude.</p>]]></description>
       <content:encoded><![CDATA[<p>I have a confession to make.</p><p>Five years ago, if I had a tedious task like writing unit tests for a legacy module or converting a JSON schema, I would assign it to a Junior Developer. It was boring work for me, but it was gold for them. It taught them the codebase, it taught them discipline, and it taught them how systems break.</p><p>Today, I don&#x27;t assign that task to a Junior. I assign it to Copilot / Claude.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>When DEV.to Stats Aren&#x27;t Enough: Building My Own Memory</title>
+      <link>https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid</link>
+      <guid isPermaLink="true">https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid</guid>
+      <pubDate>Sun, 18 Jan 2026 20:27:16 +0000</pubDate>
+      <description><![CDATA[<p>One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&#x27;s dashboard just said &quot;+37 views&quot;. No context. No cause. No pattern.</p><p>I wanted to know why . Was it a comment from someone influential? A share somewhere? A title change from weeks ago finally paying off? The platform couldn&#x27;t tell me. So I decided to steal my own data.</p><p>Not to optimize. Not to perform. But to understand how my articles actually live over time.</p>]]></description>
+      <content:encoded><![CDATA[<p>One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&#x27;s dashboard just said &quot;+37 views&quot;. No context. No cause. No pattern.</p><p>I wanted to know why . Was it a comment from someone influential? A share somewhere? A title change from weeks ago finally paying off? The platform couldn&#x27;t tell me. So I decided to steal my own data.</p><p>Not to optimize. Not to perform. But to understand how my articles actually live over time.</p>]]></content:encoded>
     </item>
     <item>
       <title>Unpopular Opinion: I stopped coding on weekends and my career got better.</title>
