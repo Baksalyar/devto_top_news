@@ -24,7 +24,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Random delay (0-5 minutes)
-        run: python - <<'PY'
+        run: |
+          python - <<'PY'
           import random
           import time
           delay = random.randint(0, 300)
