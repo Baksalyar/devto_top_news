@@ -4,15 +4,7 @@
     <title>DEV.to Top Posts This Month</title>
     <link>https://dev.to/top/month</link>
     <description>Top DEV.to posts from the last 30 days.</description>
-    <lastBuildDate>Sun, 08 Feb 2026 12:34:27 +0000</lastBuildDate>
-    <item>
-      <title>I Replaced Redis with PostgreSQL (And It&#x27;s Faster)</title>
-      <link>https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942</link>
-      <guid isPermaLink="true">https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942</guid>
-      <pubDate>Fri, 09 Jan 2026 12:47:52 +0000</pubDate>
-      <description><![CDATA[<p>I had a typical web app stack:</p><p>PostgreSQL for persistent data</p><p>Redis for caching, pub/sub, and background jobs</p>]]></description>
-      <content:encoded><![CDATA[<p>I had a typical web app stack:</p><p>PostgreSQL for persistent data</p><p>Redis for caching, pub/sub, and background jobs</p>]]></content:encoded>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 13:43:49 +0000</lastBuildDate>
     <item>
       <title>We&#x27;re Creating a Knowledge Collapse and No One&#x27;s Talking About It</title>
       <link>https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d</link>
@@ -164,6 +156,14 @@
       <pubDate>Wed, 21 Jan 2026 12:54:52 +0000</pubDate>
       <description><![CDATA[<p>WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner rather than later (I won&#x27;t miss you, bro 👋).</p><p>It’s already supported by all major browsers, and honestly… how could I not try it?</p><p>So I did what any curious frontend-centric software dev would do: I built a small interactive demo and learned a lot more than I initially expected.</p>]]></description>
       <content:encoded><![CDATA[<p>WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner rather than later (I won&#x27;t miss you, bro 👋).</p><p>It’s already supported by all major browsers, and honestly… how could I not try it?</p><p>So I did what any curious frontend-centric software dev would do: I built a small interactive demo and learned a lot more than I initially expected.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
+      <link>https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke</link>
+      <guid isPermaLink="true">https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke</guid>
+      <pubDate>Sun, 25 Jan 2026 15:11:47 +0000</pubDate>
+      <description><![CDATA[<p>I’ll admit it — sometimes I like publishing a post on the weekend, when both the internet and real life slow down a bit. But weekends are not the time for heavy technical or philosophical deep dives. It’s better to go for something lighter.</p><p>I spent a while looking for the right format. Topics like “the funniest commits ever” are fun, sure — but how many times can you do that?</p><p>And then it clicked. This format — let’s call it JS WTF — fits my weekend vibe perfectly 😄</p>]]></description>
+      <content:encoded><![CDATA[<p>I’ll admit it — sometimes I like publishing a post on the weekend, when both the internet and real life slow down a bit. But weekends are not the time for heavy technical or philosophical deep dives. It’s better to go for something lighter.</p><p>I spent a while looking for the right format. Topics like “the funniest commits ever” are fun, sure — but how many times can you do that?</p><p>And then it clicked. This format — let’s call it JS WTF — fits my weekend vibe perfectly 😄</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
