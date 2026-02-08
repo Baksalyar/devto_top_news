@@ -4,15 +4,7 @@
     <title>DEV.to Top Posts This Month</title>
     <link>https://dev.to/top/month</link>
     <description>Top DEV.to posts from the last 30 days.</description>
-    <lastBuildDate>Sun, 08 Feb 2026 17:23:32 +0000</lastBuildDate>
-    <item>
-      <title>We&#x27;re Creating a Knowledge Collapse and No One&#x27;s Talking About It</title>
-      <link>https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d</link>
-      <guid isPermaLink="true">https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d</guid>
-      <pubDate>Tue, 27 Jan 2026 01:59:58 +0000</pubDate>
-      <description><![CDATA[<p>&quot;Hostile experts created the dataset for patient machines.&quot;</p><p>That line, from a comment by Vinicius Fagundes on my last article, won&#x27;t leave my head.</p><p>Stack Overflow&#x27;s traffic collapsed 78% in two years. Everyone&#x27;s celebrating that AI finally killed the gatekeepers. But here&#x27;s what we&#x27;re not asking:</p>]]></description>
-      <content:encoded><![CDATA[<p>&quot;Hostile experts created the dataset for patient machines.&quot;</p><p>That line, from a comment by Vinicius Fagundes on my last article, won&#x27;t leave my head.</p><p>Stack Overflow&#x27;s traffic collapsed 78% in two years. Everyone&#x27;s celebrating that AI finally killed the gatekeepers. But here&#x27;s what we&#x27;re not asking:</p>]]></content:encoded>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 18:28:43 +0000</lastBuildDate>
     <item>
       <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
       <link>https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi</link>
@@ -20,6 +12,14 @@
       <pubDate>Wed, 04 Feb 2026 11:05:13 +0000</pubDate>
       <description><![CDATA[<p>The web platform is way more powerful than most developers realize — and every year it quietly gains new superpowers.</p><p>Sometimes choosing a topic is harder than writing the article itself.</p><p>When I thought about what to write this week, only two types of ideas kept comming to mind: either potential bangers , or deep technical dives.😅 But I wanted something lighter. Still technical, still useful. But not a 3-day research rabbit hole.</p>]]></description>
       <content:encoded><![CDATA[<p>The web platform is way more powerful than most developers realize — and every year it quietly gains new superpowers.</p><p>Sometimes choosing a topic is harder than writing the article itself.</p><p>When I thought about what to write this week, only two types of ideas kept comming to mind: either potential bangers , or deep technical dives.😅 But I wanted something lighter. Still technical, still useful. But not a 3-day research rabbit hole.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>We&#x27;re Creating a Knowledge Collapse and No One&#x27;s Talking About It</title>
+      <link>https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d</link>
+      <guid isPermaLink="true">https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d</guid>
+      <pubDate>Tue, 27 Jan 2026 01:59:58 +0000</pubDate>
+      <description><![CDATA[<p>&quot;Hostile experts created the dataset for patient machines.&quot;</p><p>That line, from a comment by Vinicius Fagundes on my last article, won&#x27;t leave my head.</p><p>Stack Overflow&#x27;s traffic collapsed 78% in two years. Everyone&#x27;s celebrating that AI finally killed the gatekeepers. But here&#x27;s what we&#x27;re not asking:</p>]]></description>
+      <content:encoded><![CDATA[<p>&quot;Hostile experts created the dataset for patient machines.&quot;</p><p>That line, from a comment by Vinicius Fagundes on my last article, won&#x27;t leave my head.</p><p>Stack Overflow&#x27;s traffic collapsed 78% in two years. Everyone&#x27;s celebrating that AI finally killed the gatekeepers. But here&#x27;s what we&#x27;re not asking:</p>]]></content:encoded>
     </item>
     <item>
       <title>Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸</title>
@@ -134,20 +134,20 @@
       <content:encoded><![CDATA[<p>And why it&#x27;s not their fault.</p><p>This article is a response to @itsugo&#x27;s &quot;Learning Starts After Graduation&quot; —which makes a valid point but stops short of the deeper diagnosis.</p><p>Every few months, someone posts a &quot;learning starts after graduation&quot; take. They&#x27;re not wrong—but they&#x27;re missing the bigger, more uncomfortable truth:</p>]]></content:encoded>
     </item>
     <item>
-      <title>Rewriting My First NUnit API Tests: Cleaner, Faster, Better</title>
-      <link>https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa</link>
-      <guid isPermaLink="true">https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa</guid>
-      <pubDate>Mon, 26 Jan 2026 20:08:21 +0000</pubDate>
-      <description><![CDATA[<p>Have you ever caught yourself thinking: “What am I even doing?” Well, that’s exactly how I feel right now. I was looking back at my previous tutorials and thought: “Why not review them, critique them, and make a better version?” And here we are. In this first article, I’ll revisit my initial tutorial: NUNit and C# - Tutorial to automate your API Tests from scratch .</p><p>I remember this project was born out of a real need at work. We had a lot of APIs with Postman tests, and we decided to migrate them to NUnit and C#. Now, looking back after over two years, I see many ways to improve it.</p><p>Starting from the tests that will be done. For this new project, we will use the https://dummyjson.com/ just to test some concepts, since the API are simple, and after that, we will refactor the tests for NASA API Tests. For the new endpoint we will automate the following tests:</p>]]></description>
-      <content:encoded><![CDATA[<p>Have you ever caught yourself thinking: “What am I even doing?” Well, that’s exactly how I feel right now. I was looking back at my previous tutorials and thought: “Why not review them, critique them, and make a better version?” And here we are. In this first article, I’ll revisit my initial tutorial: NUNit and C# - Tutorial to automate your API Tests from scratch .</p><p>I remember this project was born out of a real need at work. We had a lot of APIs with Postman tests, and we decided to migrate them to NUnit and C#. Now, looking back after over two years, I see many ways to improve it.</p><p>Starting from the tests that will be done. For this new project, we will use the https://dummyjson.com/ just to test some concepts, since the API are simple, and after that, we will refactor the tests for NASA API Tests. For the new endpoint we will automate the following tests:</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Moltbook Is Not an AI Society</title>
       <link>https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d</link>
       <guid isPermaLink="true">https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d</guid>
       <pubDate>Wed, 04 Feb 2026 08:45:13 +0000</pubDate>
       <description><![CDATA[<p>Moltbook has been circulating as an &quot;AI-only social network&quot; where autonomous agents post, argue, form beliefs, and evolve culture without humans in the loop.</p><p>That description sounds exciting. It&#x27;s also not accurate.</p><p>This post isn&#x27;t an attack on experimentation or agent frameworks. It&#x27;s a reality check for developers who care about precision, not mythology.</p>]]></description>
       <content:encoded><![CDATA[<p>Moltbook has been circulating as an &quot;AI-only social network&quot; where autonomous agents post, argue, form beliefs, and evolve culture without humans in the loop.</p><p>That description sounds exciting. It&#x27;s also not accurate.</p><p>This post isn&#x27;t an attack on experimentation or agent frameworks. It&#x27;s a reality check for developers who care about precision, not mythology.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Rewriting My First NUnit API Tests: Cleaner, Faster, Better</title>
+      <link>https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa</link>
+      <guid isPermaLink="true">https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa</guid>
+      <pubDate>Mon, 26 Jan 2026 20:08:21 +0000</pubDate>
+      <description><![CDATA[<p>Have you ever caught yourself thinking: “What am I even doing?” Well, that’s exactly how I feel right now. I was looking back at my previous tutorials and thought: “Why not review them, critique them, and make a better version?” And here we are. In this first article, I’ll revisit my initial tutorial: NUNit and C# - Tutorial to automate your API Tests from scratch .</p><p>I remember this project was born out of a real need at work. We had a lot of APIs with Postman tests, and we decided to migrate them to NUnit and C#. Now, looking back after over two years, I see many ways to improve it.</p><p>Starting from the tests that will be done. For this new project, we will use the https://dummyjson.com/ just to test some concepts, since the API are simple, and after that, we will refactor the tests for NASA API Tests. For the new endpoint we will automate the following tests:</p>]]></description>
+      <content:encoded><![CDATA[<p>Have you ever caught yourself thinking: “What am I even doing?” Well, that’s exactly how I feel right now. I was looking back at my previous tutorials and thought: “Why not review them, critique them, and make a better version?” And here we are. In this first article, I’ll revisit my initial tutorial: NUNit and C# - Tutorial to automate your API Tests from scratch .</p><p>I remember this project was born out of a real need at work. We had a lot of APIs with Postman tests, and we decided to migrate them to NUnit and C#. Now, looking back after over two years, I see many ways to improve it.</p><p>Starting from the tests that will be done. For this new project, we will use the https://dummyjson.com/ just to test some concepts, since the API are simple, and after that, we will refactor the tests for NASA API Tests. For the new endpoint we will automate the following tests:</p>]]></content:encoded>
     </item>
     <item>
       <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
