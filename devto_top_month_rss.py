@@ -19,8 +19,21 @@ FEED_LINK = "https://dev.to/top/month"
 FEED_DESCRIPTION = "Top DEV.to posts from the last 30 days."
 
 
-def fetch_json(session: requests.Session, url: str):
-    response = session.get(url, timeout=30)
+def fetch_json(session: requests.Session, url: str, retries: int = 3):
+    for attempt in range(retries + 1):
+        response = session.get(url, timeout=30)
+        if response.status_code != 429:
+            response.raise_for_status()
+            return response.json()
+
+        retry_after = response.headers.get("Retry-After")
+        if retry_after and retry_after.isdigit():
+            delay = int(retry_after)
+        else:
+            delay = 2 ** attempt
+        jitter = random.uniform(0, 1)
+        time.sleep(delay + jitter)
+
     response.raise_for_status()
     return response.json()
 
