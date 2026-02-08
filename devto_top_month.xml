@@ -4,7 +4,7 @@
     <title>DEV.to Top Posts This Month</title>
     <link>https://dev.to/top/month</link>
     <description>Top DEV.to posts from the last 30 days.</description>
-    <lastBuildDate>Sun, 08 Feb 2026 08:04:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 10:35:00 +0000</lastBuildDate>
     <item>
       <title>I Replaced Redis with PostgreSQL (And It&#x27;s Faster)</title>
       <link>https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942</link>
@@ -150,20 +150,20 @@
       <content:encoded><![CDATA[<p>Have you ever caught yourself thinking: “What am I even doing?” Well, that’s exactly how I feel right now. I was looking back at my previous tutorials and thought: “Why not review them, critique them, and make a better version?” And here we are. In this first article, I’ll revisit my initial tutorial: NUNit and C# - Tutorial to automate your API Tests from scratch .</p><p>I remember this project was born out of a real need at work. We had a lot of APIs with Postman tests, and we decided to migrate them to NUnit and C#. Now, looking back after over two years, I see many ways to improve it.</p><p>Starting from the tests that will be done. For this new project, we will use the https://dummyjson.com/ just to test some concepts, since the API are simple, and after that, we will refactor the tests for NASA API Tests. For the new endpoint we will automate the following tests:</p>]]></content:encoded>
     </item>
     <item>
-      <title>The First Week at a Startup Taught Me More Than I Expected</title>
-      <link>https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a</link>
-      <guid isPermaLink="true">https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a</guid>
-      <pubDate>Fri, 09 Jan 2026 08:29:58 +0000</pubDate>
-      <description><![CDATA[<p>Since many of you seemed interested in reading more about this, here’s my first-week reflection.</p><p>My first week at a startup felt less like starting a job and more like stepping into motion that was already happening.</p><p>There wasn’t a clean boundary around my role. Some days I was coding, some days debugging things I didn’t build, some days thinking through product decisions, other times helping wherever friction appeared. Titles mattered less than momentum. If something needed to move, someone had to move it.</p>]]></description>
-      <content:encoded><![CDATA[<p>Since many of you seemed interested in reading more about this, here’s my first-week reflection.</p><p>My first week at a startup felt less like starting a job and more like stepping into motion that was already happening.</p><p>There wasn’t a clean boundary around my role. Some days I was coding, some days debugging things I didn’t build, some days thinking through product decisions, other times helping wherever friction appeared. Titles mattered less than momentum. If something needed to move, someone had to move it.</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Moltbook Is Not an AI Society</title>
       <link>https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d</link>
       <guid isPermaLink="true">https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d</guid>
       <pubDate>Wed, 04 Feb 2026 08:45:13 +0000</pubDate>
       <description><![CDATA[<p>Moltbook has been circulating as an &quot;AI-only social network&quot; where autonomous agents post, argue, form beliefs, and evolve culture without humans in the loop.</p><p>That description sounds exciting. It&#x27;s also not accurate.</p><p>This post isn&#x27;t an attack on experimentation or agent frameworks. It&#x27;s a reality check for developers who care about precision, not mythology.</p>]]></description>
       <content:encoded><![CDATA[<p>Moltbook has been circulating as an &quot;AI-only social network&quot; where autonomous agents post, argue, form beliefs, and evolve culture without humans in the loop.</p><p>That description sounds exciting. It&#x27;s also not accurate.</p><p>This post isn&#x27;t an attack on experimentation or agent frameworks. It&#x27;s a reality check for developers who care about precision, not mythology.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
+      <link>https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh</link>
+      <guid isPermaLink="true">https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh</guid>
+      <pubDate>Wed, 21 Jan 2026 12:54:52 +0000</pubDate>
+      <description><![CDATA[<p>WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner rather than later (I won&#x27;t miss you, bro 👋).</p><p>It’s already supported by all major browsers, and honestly… how could I not try it?</p><p>So I did what any curious frontend-centric software dev would do: I built a small interactive demo and learned a lot more than I initially expected.</p>]]></description>
+      <content:encoded><![CDATA[<p>WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner rather than later (I won&#x27;t miss you, bro 👋).</p><p>It’s already supported by all major browsers, and honestly… how could I not try it?</p><p>So I did what any curious frontend-centric software dev would do: I built a small interactive demo and learned a lot more than I initially expected.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
