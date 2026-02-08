@@ -60,4 +60,4 @@ python devto_top_month_rss.py --limit 20 --top-days 30 --output devto_top_month.
 
 Once GitHub Pages is enabled for this repository, your feed URL will be:
 
-`https://baksalyar.github.io/devto_top_news/devto_top_month.xml`
+`https://<your-username>.github.io/<your-repo>/devto_top_month.xml`
