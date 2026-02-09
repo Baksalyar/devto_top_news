@@ -20,8 +20,10 @@ FEED_DESCRIPTION = "Top DEV.to posts from the last 30 days."
 
 
 def fetch_json(session: requests.Session, url: str, retries: int = 3):
+    last_response: requests.Response | None = None
     for attempt in range(retries + 1):
         response = session.get(url, timeout=30)
+        last_response = response
         if response.status_code != 429:
             response.raise_for_status()
             return response.json()
@@ -34,8 +36,9 @@ def fetch_json(session: requests.Session, url: str, retries: int = 3):
         jitter = random.uniform(0, 1)
         time.sleep(delay + jitter)
 
-    response.raise_for_status()
-    return response.json()
+    if last_response is not None:
+        last_response.raise_for_status()
+    raise RuntimeError("Request failed without a response.")
 
 
 def extract_paragraphs(body_html: str, fallback_text: str | None) -> list[str]:
@@ -47,7 +50,7 @@ def extract_paragraphs(body_html: str, fallback_text: str | None) -> list[str]:
         if not text:
             continue
         paragraphs.append(text)
-        if len(paragraphs) >= 3:
+        if len(paragraphs) >= 20:
             break
 
     if len(paragraphs) < 2 and fallback_text:
@@ -56,7 +59,17 @@ def extract_paragraphs(body_html: str, fallback_text: str | None) -> list[str]:
     if len(paragraphs) < 2:
         paragraphs.append("Top DEV.to article snippet unavailable.")
 
-    return paragraphs[:3]
+    total_paragraphs = len(
+        [
+            node
+            for node in soup.find_all(["p", "blockquote", "li"])
+            if " ".join(node.stripped_strings)
+        ]
+    )
+    if total_paragraphs > 20 and len(paragraphs) >= 20:
+        paragraphs.append("Read the rest of the article at the source.")
+
+    return paragraphs[:21]
 
 
 def paragraphs_to_html(paragraphs: list[str]) -> str:
